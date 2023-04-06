@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/-@gerharddev-%23181717?style=flat-square&logo=github)](https://github.com/gerharddev)
+[![](https://img.shields.io/badge/-Gerhard%20Maree-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gerhard-maree-90a77083/)](https://www.linkedin.com/in/gerhard-maree-90a77083/)
+[![](https://img.shields.io/badge/-@gerhard_bio-green?style=flat-square&logo=bio)](https://gerharddev.github.io/)
+[![](https://img.shields.io/badge/-gerhardmaree-lightgrey?style=flat-square?style=plastic&logo=medium)](https://medium.com/@gerhardmaree/)
+
 <!--
 **gerharddev/gerharddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +18,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://gerharddev.github.io/
 -->
