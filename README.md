@@ -20,7 +20,7 @@
 
 <br />
 <div align="center">
-  <img src="images/github_banner02.png" alt="Banner Image" style="border-radius: 15px; width: 980%;">
+  <img src="images/github_banner03.png" alt="Banner Image"  width: 98%;">
 </div>
 <!--
 **gerharddev/gerharddev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
