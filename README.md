@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/gerhard-maree-90a77083/" target="_blank">
     <img src="https://img.shields.io/badge/-Gerhard%20Maree-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://gerharddev.github.io/" target="_blank">
+  <a href="https://www.gerhardmaree.dev" target="_blank">
     <img src="https://img.shields.io/badge/-@gerhard_bio-green?style=flat-square&logo=bio" alt="Bio">
   </a>
   <a href="https://medium.com/@gerhardmaree/" target="_blank">
